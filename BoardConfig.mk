@@ -48,7 +48,7 @@ TARGET_LD_SHIM_LIBS += \
 TARGET_SPECIFIC_HEADER_PATH += device/samsung/zeroltexx/include
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_zeroltexx_defconfig
+TARGET_KERNEL_CONFIG := arrow_zeroltexx_defconfig
 
 # Manifest
 DEVICE_MANIFEST_FILE := $(LOCAL_PATH)/configs/manifest.xml
